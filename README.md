@@ -14,9 +14,11 @@
   <h2 align="left">✨ About Me</h2>
   <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4422816/screenshots/8803765/media/fffb308d1d7a24a8687346c57ae1ff36.gif">
 
-  - 🌱 I’m currently learning **Ethereum Development**
+  - 🌱 Currently learning **Ethereum Development**
   
-  - 🏗️ Love community building and contributing to open-source projects
+  - 🌱 Currently imporving my **problem solving skill**
+  
+  - 🏗️ Love **community building** and contributing to **open-source projects**
 
   - 📫 How to reach me **0xmaxlord@gmail.com**
 
