@@ -8,8 +8,6 @@
   </a>
 </p>
 
-<p align="left"> <a href="https://twitter.com/justlordmax" target="blank"><img src="https://img.shields.io/twitter/follow/justlordmax?logo=twitter&style=for-the-badge" alt="justlordmax" /></a> </p>
-
 <div>
   <h2 align="left">✨ About Me</h2>
   <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4422816/screenshots/8803765/media/fffb308d1d7a24a8687346c57ae1ff36.gif">
