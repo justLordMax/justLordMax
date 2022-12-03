@@ -12,11 +12,13 @@
 
 <p align="left"> <a href="https://twitter.com/justlordmax" target="blank"><img src="https://img.shields.io/twitter/follow/justlordmax?logo=twitter&style=for-the-badge" alt="justlordmax" /></a> </p>
 
+<h1>✨ About Me</h1>
+
 - 🌱 I’m currently learning **Ethereum Development**
 
 - 📫 How to reach me **0xmaxlord@gmail.com**
 
-- ⚡ Fun fact **I'm a low-key Otaku**
+- 🤓 Fun fact **I'm a low-key Otaku**
 
 
 <h3 align="left">Languages and Tools:</h3>
