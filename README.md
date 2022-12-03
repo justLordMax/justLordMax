@@ -1,5 +1,7 @@
 <h1 align="center">Hello 👋,</h1>
 
+![](images/Machine%20Learning.png)
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F71A45&width=570&lines=I'm+SAMUEL+OYENEYE.;I'm+a+Machine+Learning+Engineer%2C;and+a+Blockchain+Developer+Enthusiast." alt="Typing SVG" />
