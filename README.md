@@ -40,7 +40,7 @@
     <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justlordmax&layout=compact&theme=radical" />
   </p>
   <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=justlordmax&theme=radical" alt="justlordmax" />
+    <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=justlordmax&theme=radical" alt="justlordmax" />
   </p>
 </div>
 
