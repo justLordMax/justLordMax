@@ -18,7 +18,7 @@
   
   - 🏗️ Love **community building** and contributing to **open-source projects**
 
-  - 📫 How to reach me **0xmaxlord@gmail.com**
+  - 📫 How to reach me **samueloyeneye1@gmail.com**
 
   - 🤓 Fun fact **I'm a low-key Otaku**
 
